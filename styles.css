@@ -1,0 +1,20 @@
+.card {
+    width: 300px;
+    margin: 20px;   
+    padding: 0;
+}
+.card img {
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+section#details .card {
+    width: 100%;
+}
+
+section#details .card img {
+    width: 100%;
+}
